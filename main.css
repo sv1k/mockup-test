@@ -20,6 +20,9 @@ body {
 	margin: 0px 120px;
 }
 
+.logout {
+	border-left: 1px solid #fff;
+}
 
 header {
 	width: 100%;
@@ -52,7 +55,8 @@ header {
 }
 
 .nav-list li {
-	margin-left: 30px;
+	margin-left: 15px;
+	padding-left: 10px;
 }
 
 .nav-list a{
